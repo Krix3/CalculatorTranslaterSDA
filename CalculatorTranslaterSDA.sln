@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTranslaterSDA", "CalculatorTranslaterSDA\CalculatorTranslaterSDA.csproj", "{6148D93F-4469-4B2D-9AAC-3B1A68537B87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6148D93F-4469-4B2D-9AAC-3B1A68537B87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6148D93F-4469-4B2D-9AAC-3B1A68537B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6148D93F-4469-4B2D-9AAC-3B1A68537B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6148D93F-4469-4B2D-9AAC-3B1A68537B87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B009EEFB-F302-485D-B369-B55F515C5F16}
+	EndGlobalSection
+EndGlobal
